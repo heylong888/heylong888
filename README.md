@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 😍从刷机开始接触github
+- 😉目前使用的路由器是rax80 和树莓派4
 
 <!---
 heylong888/heylong888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
